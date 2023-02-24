@@ -1,0 +1,23 @@
+body{
+  background-color: #0dcaf0;
+}
+
+.root{
+  margin-top: 1em;
+  padding: 2em;
+}
+
+.formRoot{
+  padding: 2em;
+  background-color: white;
+}
+
+.rootTitle{
+  color: white;
+  margin: .5em;
+}
+
+.precio{
+  color: #0dcaf0 ;
+}
+
